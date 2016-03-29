@@ -1,1 +1,2 @@
 # OBSdeneme
+projemizin amacı; 
